@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskParallel", "TaskParalle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginInvoke", "BeginInvoke\BeginInvoke.csproj", "{C3C6957E-3828-4ACF-8BA6-0D38A316A644}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{A8C085DC-8EF4-49DB-8D80-B1753B547717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C3C6957E-3828-4ACF-8BA6-0D38A316A644}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C6957E-3828-4ACF-8BA6-0D38A316A644}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C6957E-3828-4ACF-8BA6-0D38A316A644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C085DC-8EF4-49DB-8D80-B1753B547717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C085DC-8EF4-49DB-8D80-B1753B547717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C085DC-8EF4-49DB-8D80-B1753B547717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C085DC-8EF4-49DB-8D80-B1753B547717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
